@@ -24,3 +24,7 @@ iron:router
 twbs:bootstrap
 session
 lepozepo:cloudinary
+accounts-ui
+accounts-password
+aldeed:collection2
+msavin:mongol
